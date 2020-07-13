@@ -9,4 +9,4 @@ A clone of the productivity chome app Momentum on Vanilla JS
 - slide Background
 
 ## Try it out
-https://Esther-Choi.github.io/Chrome-Momentum/
+https://Esther-Choi.github.io/Chrome-Momentum/index.html

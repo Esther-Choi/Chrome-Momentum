@@ -65,28 +65,33 @@ button {
   border-right: 0px;
   border-left: 0px;
   border-bottom: 0.5px solid white;
+  padding: 25px 40px 0px 10px;
+  height: 35px;
+  overflow: hidden;
 }
 
 .input::placeholder {
   color: white;
-  font-size: 18.5px;
+  font-size: 20px;
+  overflow: visible;
 }
 
 .input2::placeholder{
   color: white;
-  font-size: 15px;
+  font-size: 20px;
+  overflow: visible;
 }
 
 .input:focus {
   outline: none;
   color: white;
-  font-size: 18.5px;
+  font-size: 20px;
 }
 
 .input2:focus {
   outline: none;
   color: white;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 
